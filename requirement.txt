@@ -1,0 +1,3 @@
+Coding API cơ bản: * Tạo cơ sở dữ liệu có 1 bảng duy nhất tên là departments (Phòng ban) gồm các trường cơ bản (id, name, code...).
+Viết một API đơn giản để lấy (Select) danh sách dữ liệu từ bảng departments.
+Dockerize database ở Local: Viết file docker-compose.yml để dựng môi trường Database MySQL chạy bằng Docker ở máy cá nhân (Local) phục vụ cho việc chạy/test ứng dụng tại ch
