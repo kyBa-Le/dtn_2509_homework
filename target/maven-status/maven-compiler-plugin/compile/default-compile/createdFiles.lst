@@ -1,5 +1,0 @@
-com\user\app\entity\Department.class
-com\user\app\UserDataManagementApplication.class
-com\user\app\controller\DepartmentController.class
-com\user\app\init\DataInitializer.class
-com\user\app\repository\DepartmentRepository.class
